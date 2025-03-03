@@ -1,0 +1,1 @@
+# atlys-fastapi-scrapper
