@@ -21,7 +21,7 @@ A web scraping application built with FastAPI to scrape product information from
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/atlys-fastapi-scrapper.git
+git clone https://github.com/arpitsinghania8/atlys-fastapi-scrapper.git
 cd atlys-fastapi-scrapper
 ```
 
